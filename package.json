@@ -1,0 +1,20 @@
+{
+  "name": "ss-utils",
+  "version": "1.0.0",
+  "description": "A set of JS Tools for Calculating things",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tom Smith",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^2.2.1",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "moment": "^2.24.0",
+    "shelljs": "^0.8.3",
+    "underscore": "^1.9.1",
+    "winston": "^3.2.1"
+  }
+}
